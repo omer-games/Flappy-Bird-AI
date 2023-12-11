@@ -5,6 +5,7 @@ Flappy Bird AI is a Python program that utilizes the NEAT (NeuroEvolution of Aug
 ## Credit for Original Game
 
 This program is built upon a Python Flappy Bird game created by Leonardo Marques.
+https://github.com/LeonMarqs/Flappy-bird-python
 
 ## How it Works
 
