@@ -16,7 +16,7 @@ The program uses NEAT to evolve a population of neural networks. Each neural net
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/omer-games/FlappyBirdAI.git
+    git clone https://github.com/omer-games/Flappy-Bird-AI.git
     ```
 
 2. **Install Dependencies:**
