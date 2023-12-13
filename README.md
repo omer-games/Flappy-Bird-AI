@@ -48,4 +48,4 @@ Flappy Bird AI is designed as an educational project to demonstrate the applicat
 
 ## Developer
 
-omer-games
+Omer-Games
